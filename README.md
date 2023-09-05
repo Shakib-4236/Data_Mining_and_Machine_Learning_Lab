@@ -1,2 +1,2 @@
-# Data_Mining_and_Machine_Learning_Lab
+# Data_Mining_and_Machine_Learning
 Code
